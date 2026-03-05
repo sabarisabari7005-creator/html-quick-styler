@@ -1,4 +1,10 @@
 *HTML Quick Styler Project Description:*
+HTML Quick Styler is a simple web application that allows users to quickly change the style of text on a webpage.
+Using this project, users can modify:
+Text color
+Font size
+Background color
+They can make these changes easily by clicking buttons, and the styles update instantly on the page.
 
 A web-based tool for quickly styling HTML elements with CSS. Users can input HTML code, apply styles, and preview the styled output in real-time.
 
